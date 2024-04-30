@@ -1,6 +1,11 @@
-![header](https://github.com/Youssef-Mohammad/Youssef-Mohammad/assets/100593295/d3f25942-b613-4f3b-8bd5-724820ae6cb1)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&center=true&vCenter=true&random=false&width=435&lines=Ai+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Data+Scientist;Data+Analyst;Software+Developer)](https://git.io/typing-svg)
-# AI Engineer & Software Developer
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Youssef-Mohammad/Youssef-Mohammad/blob/main/header.png"></div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=40&center=true&vCenter=true&random=false&width=500&lines=I'm+Youssef;Ai+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Data+Scientist;Data+Analyst;Software+Developer" alt="Typing SVG" /></a>
+</div>
+
+## AI Engineer & Software Developer
 
 Welcome to my GitHub profile! I'm a passionate AI engineer and software developer with a keen interest in developing intelligent systems and creating impactful software solutions. Here, you'll find a collection of my projects, ranging from AI models and algorithms to full-fledged software applications.
 
