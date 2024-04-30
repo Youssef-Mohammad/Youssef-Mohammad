@@ -1,5 +1,4 @@
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Youssef-Mohammad/Youssef-Mohammad/blob/main/header.png"></div>
+<div align="center" ><img alt="welcome to my profile!" src="https://github.com/Youssef-Mohammad/Youssef-Mohammad/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=40&center=true&vCenter=true&random=false&width=500&lines=I'm+Youssef;Ai+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Data+Scientist;Data+Analyst;Software+Developer" alt="Typing SVG" /></a>
