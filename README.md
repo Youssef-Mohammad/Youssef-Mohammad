@@ -1,7 +1,7 @@
-<div align="center" ><img alt="welcome to my profile!" src="https://github.com/Youssef-Mohammad/Youssef-Mohammad/blob/main/assets/header.png"></div>
+<div align="center" ><img alt="welcome to my profile!" src="https://github.com/Youssef-Mohammad/Youssef-Mohammad/blob/main/assets/header Purple.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=40&center=true&vCenter=true&random=false&width=500&lines=I'm+Youssef;Ai+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Data+Scientist;Data+Analyst;Software+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=40&center=true&vCenter=true&random=false&color=c05edd&width=500&lines=I'm+Youssef;Ai+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Data+Scientist;Data+Analyst;Software+Developer" alt="Typing SVG" /></a>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=yussefmohamed4&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
@@ -56,7 +56,7 @@ Interested in collaborating on a project or discussing ideas? Feel free to reach
 </a>. 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=40&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+your+visit!;Happy+Coding!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=40&center=true&vCenter=true&random=false&color=c05edd&width=500&lines=Thanks+for+your+visit!;Happy+Coding!" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <img alt="welcome to my profile!" src="https://github.com/Youssef-Mohammad/Youssef-Mohammad/blob/main/assets/background.png" style="width: 100%;">
